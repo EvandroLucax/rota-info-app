@@ -11,10 +11,10 @@ O sistema permitirá que alunos e responsáveis consultem informações sobre os
 
 ## 2. Integrantes da equipe
 
-- Integrante 1 - Christiano Caragiu - [Responsabilidade]
-- Integrante 2 - Evandro Lucas - [Responsabilidade]
-- Integrante 3 - Luis Davi - [Responsabilidade]
-- Integrante 4 - Jose Fabricio - [Responsabilidade]
+- Integrante 1 - Christiano Caragiu 
+- Integrante 2 - Evandro Lucas 
+- Integrante 3 - Luis Davi 
+- Integrante 4 - Jose Fabricio 
 
 ## 3. Tecnologias utilizadas
 
